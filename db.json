@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Vasif",
+      "email":"Vasif111@gmail.com",
+      "password":"Vasif111",
+      "mehsul":"parsley",
+      "img":"../../assets/images/parsley.webp",
+      "price":"0.4"
+    },
+    {
+      "id": 2,
+      "name": "Vusal",
+      "email":"Vusal111@gmail.com",
+      "password":"Vusal111",
+      "mehsul":"potatoes",
+      "img":"../../assets/images/potatoes.webp",
+      "price":"3"
+    },
+    {
+      "id": 3,
+      "name": "Ruslan",
+      "email":"Ruslan111@gmail.com",
+      "password":"Ruslan111",
+      "mehsul":"apple",
+      "img":"../../assets/images/apple.webp",
+      "price":"2"
+    },
+    {
+      "id": 4,
+      "name": "Kamil",
+      "email":"Kamil111@gmail.com",
+      "password":"Kamil111",
+  
+    
+      "mehsul":"berry",
+      "img":"../../assets/images/berry.webp",
+      "price":"3.5"
+    },
+    {
+      "id": 5,
+      "name": "Rehman",
+      "email":"Rehman111@gmail.com",
+      "password":"Rehman111",
+      "mehsul":"eggplant",
+      "img":"../../assets/images/eggplant.webp",
+      "price":"1.5"
+    },
+    {
+      "id": 6,
+      "name": "Veli",
+      "email":"Veli111@gmail.com",
+      "password":"Veli111",
+      "mehsul":"apple",
+      "img":"../../assets/images/apple.webp",
+      "price":"3"
+    },
+    {
+      "id": 7,
+      "name": "Fikret",
+      "email":"Fikret111@gmail.com",
+      "password":"Fikret111",
+      "mehsul":"strawberry",
+      "img":"../../assets/images/strawberry.webp",
+      "price":"4"
+    },
+    {
+      "id": 8,
+      "name": "Arif",
+      "email":"Arif111@gmail.com",
+      "password":"Arif111",
+      "mehsul":"banana",
+      "img":"../../assets/images/banana.webp",
+      "price":"5"
+    },
+    {
+      "id": 9,
+      "name": "Metleb",
+      "email":"Metleb111@gmail.com",
+      "password":"Metleb111",
+      "mehsul":"pear",
+      "img":"../../assets/images/pear.webp",
+      "price":"2.5"
+    },
+    {
+      "id": 10,
+      "name": "Neymet",
+      "email":"Neymet111@gmail.com",
+      "password":"Neymet111",
+      "mehsul":"cucumber",
+      "img":"../../assets/images/cucumber.webp",
+      "price":"3"
+    },
+    {
+      "id": 11,
+      "name": "Kamran",
+      "email":"Kamran111@gmail.com",
+      "password":"Kamran111",
+      "mehsul":"potatoes",
+      "img":"../../assets/images/potatoes.webp",
+      "price":"1.5"
+    },
+    {
+      "id": 12,
+      "name": "Murad",
+      "email":"Murad111@gmail.com",
+      "password":"Murad111",
+      "mehsul":"egg",
+      "img":"../../assets/images/egg.webp",
+      "price":"0.50"
+
+    }
+
+  ]
+}
